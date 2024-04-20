@@ -6,6 +6,6 @@ Excitingly, this project is not even close to done! Come back if you're interest
 
 Here is my irrigation classifier in Google Earth Engine: https://code.earthengine.google.com/f0e0a4ca83764992fa689d4b57264c9b
 
-Find the Jupyter Notebook code above for SHapley Additive exPlanations (SHAP).
+Find the Jupyter Notebook code above for SHapley Additive exPlanations (SHAP) analysis.
 
 ![finaleliposter-1](https://github.com/rms428/IrrigationClassification/assets/95510542/f7773ad7-3c2d-4a09-9962-c1b83253f59f)
